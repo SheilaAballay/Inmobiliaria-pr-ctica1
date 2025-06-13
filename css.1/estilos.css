@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+
+.nav-link.active {
+  color: #fff ;
+  background-color: #0d6efd;
+}
+.logo {
+  max-height: 40px;
+  width: auto;
+}
+.text-dorado {
+  color: #c7a008;
+}
